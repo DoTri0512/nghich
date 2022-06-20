@@ -154,7 +154,6 @@
     flex-wrap: wrap;
     flex-direction: row;
     gap: 30px;
-    background-color: red;
 }
 .content-breakfast-title{
     font-family: 'Poppins',sans-serif;
@@ -232,7 +231,6 @@
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
-    background-color: red;
 }
 .content-lunch-title{
     font-family: 'Poppins',sans-serif;
@@ -311,7 +309,6 @@
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
-    background-color: red;
 }
 .content-dinner-title{
     font-family: 'Poppins',sans-serif;
